@@ -1,0 +1,30 @@
+
+.btn {
+  background: none;
+  border: 3px solid #2173fb;
+  cursor: pointer;
+  line-height: 1.5;
+  font: 700 1.2rem 'Roboto Slab', sans-serif;
+  color: white;
+  padding: 1em 2em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+input[type=text] {
+  border: 3px solid #2173fb;
+  line-height: 1.5;
+  font: 600 1.2rem 'Roboto Slab', sans-serif;
+  padding: 1em 1em;
+  margin-top: 10px;
+}
+
+
+body { 
+  background: #1f1a25;
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
